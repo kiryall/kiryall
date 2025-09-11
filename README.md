@@ -47,7 +47,11 @@
 
 ---
 
+
+
 ## Проекты  
+
+
 - [Customer Churn Prediction](https://github.com/kiryall/data-science-projects/tree/main/project_customer_churn_forecast) – предсказание оттока клиентов (ROC-AUC = 0.868)  
 - [Sentiment Analysis](https://github.com/kiryall/data-science-projects/tree/main/project_sentiment_analysis) – классификация отзывов (F1 = 0.935)  
 - [HR Analytics](https://github.com/kiryall/data-science-projects/tree/main/project_HR_analytics) – прогноз удовлетворённости и оттока сотрудников  
