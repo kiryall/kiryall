@@ -20,6 +20,8 @@
 
 ## Стек
 
+## 🛠 Технологии и инструменты  
+
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="25"/>
@@ -43,14 +45,15 @@
   
   <!-- Visualization -->
   <img src="https://img.shields.io/badge/Matplotlib-0C55A5?style=flat&logoColor=white" alt="Matplotlib" height="25"/>
-  <img src="https://img.shields.io/badge/Seaborn-2E6E9E?style=flat&logoColo
+  <img src="https://img.shields.io/badge/Seaborn-2E6E9E?style=flat&logoColor=white" alt="Seaborn" height="25"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" height="25"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" height="25"/>
+</p>
+
 
 ---
 
-
-
 ## Проекты  
-
 
 - [Customer Churn Prediction](https://github.com/kiryall/data-science-projects/tree/main/project_customer_churn_forecast) – предсказание оттока клиентов (ROC-AUC = 0.868)  
 - [Sentiment Analysis](https://github.com/kiryall/data-science-projects/tree/main/project_sentiment_analysis) – классификация отзывов (F1 = 0.935)  
