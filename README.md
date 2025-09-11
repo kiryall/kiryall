@@ -1,6 +1,6 @@
 <!-- Header с гифкой -->
 <p align="center">
-  <img src="HEADER_GIF_URL" alt="header" width="100%" />
+  <img src="![Image](https://github.com/user-attachments/assets/f9353c56-f895-4a1b-94ab-e10e9f19e38b)" alt="header" width="100%" />
 </p>
 
 # Привет, я Кирилл  
