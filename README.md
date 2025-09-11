@@ -18,36 +18,32 @@
 
 ---
 
-## Стек  
+## Стек
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="25"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL" height="25"/>
   
   <!-- ML & DS -->
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/CatBoost-1C1C1C?style=for-the-badge&logoColor=white" alt="CatBoost"/>
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white" alt="LightGBM"/>
-  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/Transformers-FFDA44?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" height="25"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="25"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="25"/>
+  <img src="https://img.shields.io/badge/CatBoost-1C1C1C?style=flat&logoColor=white" alt="CatBoost" height="25"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat&logoColor=white" alt="LightGBM" height="25"/>
+  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=flat&logoColor=white" alt="XGBoost" height="25"/>
+  <img src="https://img.shields.io/badge/Transformers-FFDA44?style=flat&logo=huggingface&logoColor=black" alt="Transformers" height="25"/>
   
   <!-- Data & Tools -->
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas" height="25"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" alt="numpy" height="25"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" height="25"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="25"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="25"/>
   
   <!-- Visualization -->
-  <img src="https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-2E6E9E?style=for-the-badge&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
-
+  <img src="https://img.shields.io/badge/Matplotlib-0C55A5?style=flat&logoColor=white" alt="Matplotlib" height="25"/>
+  <img src="https://img.shields.io/badge/Seaborn-2E6E9E?style=flat&logoColo
 
 ---
 
