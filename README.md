@@ -1,7 +1,3 @@
-<!-- Header с гифкой -->
-<p align="center">
-  <img src="https://github.com/kiryall/kiryall/issues/2#issue-3406046951" alt="header" width="100%" />
-</p>
 
 # Привет, я Кирилл  
 
