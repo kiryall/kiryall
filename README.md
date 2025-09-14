@@ -1,6 +1,6 @@
 <!-- Header с гифкой -->
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/200408872/488306357-e44170ea-8778-45db-9150-4669c719000c.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc1OTE1MDUsIm5iZiI6MTc1NzU5MTIwNSwicGF0aCI6Ii8yMDA0MDg4NzIvNDg4MzA2MzU3LWU0NDE3MGVhLTg3NzgtNDVkYi05MTUwLTQ2NjljNzE5MDAwYy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxMVQxMTQ2NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNDZjZjBhZGY3MjUwODQ1MzAxZTkwMjRkZmIwYjNiNzg3YjY3ODljYTI2ZjQ1MTJmYzA4YWQ5OWMzMmFjMmUyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OXZMJ2_NBrounBEMfEd-wDzcOIRMtLc782uTEUyjz3E" alt="header" width="100%" />
+  <img src="https://github.com/kiryall/kiryall/issues/2#issue-3406046951" alt="header" width="100%" />
 </p>
 
 # Привет, я Кирилл  
