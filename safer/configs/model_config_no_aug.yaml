@@ -1,0 +1,5 @@
+model: yolo26-obb
+imgsz: 1024
+task: obb
+epochs: 40
+augment: false

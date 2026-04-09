@@ -1,0 +1,24 @@
+services:
+  safer-ui:
+    build: .
+    image: safer:latest
+    container_name: safer-ui
+    environment:
+      - APP_MODE=streamlit
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./models:/app/models
+      - ./output:/app/output
+      - ./data:/data
+
+  safer-cli:
+    image: safer:latest
+    container_name: safer-cli
+    profiles: ["cli"]
+    environment:
+      - APP_MODE=cli
+    volumes:
+      - ./models:/app/models
+      - ./output:/app/output
+      - ./data:/data

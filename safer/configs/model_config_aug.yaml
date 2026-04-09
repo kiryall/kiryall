@@ -1,0 +1,11 @@
+model: yolo26-obb
+imgsz: 1024
+task: obb
+epochs: 60
+augment: true
+hsv_h: 0.015
+hsv_s: 0.6
+hsv_v: 0.4
+degrees: 20
+translate: 0.1
+scale: 0.3
